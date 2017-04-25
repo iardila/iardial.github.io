@@ -1,2 +1,2 @@
-# http://iardilal.github.io
+# http://iardial.github.io
 # iardial.github.io
